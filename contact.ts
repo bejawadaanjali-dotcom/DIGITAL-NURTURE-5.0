@@ -1,4 +1,0 @@
-p {
-  font-size: 18px;
-  margin: 10px;
-}
